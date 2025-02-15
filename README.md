@@ -1,2 +1,2 @@
 # gazelle
-Webcam eye tracking using explainable deep learning.
+Webcam gaze tracking using explainable deep learning.
